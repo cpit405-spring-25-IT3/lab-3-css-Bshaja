@@ -1,0 +1,16 @@
+.image-preview img{
+    border-top: 30px solid #85ceed;
+    border-bottom: 30px solid lightgreen;
+    border-left: 30px solid #ffefd5;
+    border-right: 30px solid lightpink;
+
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+}
